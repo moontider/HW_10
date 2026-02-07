@@ -1,0 +1,54 @@
+    1  вюв
+    2  вбжжыэювмжсэфыв
+    3  вююцжйюэыювжюцжй
+    4  вжцюйыэваюжавыэжюв
+    5  бвюждавдЖМБВЫЛФЛЗЖВДЦТЦЛлджвцулдцьфыд
+    6  brew install --cask dbeaver-community
+    7  brew install --cask dbeaver-community
+    8   (brew install --cask dbeaver-community)
+    9  git --version
+   10  git --version
+   11  mkdir HW_10\ncd HW_10
+   12  mkdir HW_10
+   13  cd HW_10
+   14  history -c
+   15  history -p
+   16  git --version
+   17  mkdir HW_10\ncd HW_10
+   18  ls
+   19  cd ..
+   20  ls
+   21  [200~rm -rf HW_10~
+   22  rm -rf HW_10
+   23  ls
+   24  git clone https://github.com/moontider/HW_10.git
+   25  cd HW_10
+   26  git status
+   27  touch text_ignore.txt
+   28  ls
+   29  open .gitignore
+   30  git status
+   31  git add .
+   32  git commit -m "added text_ignore.txt to gitignore"
+   33  git config --global user.name "moontider"git config --global user.email "moonriderd@gmail.com\nCtrl + C\ngit config --global user.name "moontider"\ngit config --global user.email "moonrider@gmail.com"
+   34  git config --global user.name "moontider"
+   35  git config --global user.email "moonrider@gmail.com"
+   36  git config --list
+   37  touch main_test.txt
+   38  git status
+   39  git add .
+   40  git status
+   41  git commit -m "add main_test.txt"
+   42  git push
+   43  git push
+   44  pwd\ngit branch\ngit status
+   45  git checkout -b develop
+   46  git branch
+   47  touch develop_test.txt\ngit add .\ngit commit -m "add develop_test.txt"
+   48  echo "just a small change" >> develop_test.txt\ngit status\ngit add .\ngit commit -m "update develop_test.txt"
+   49  git push -u origin develop
+   50  git checkout main
+   51  git pull
+   52  git merge develop
+   53  git push
+   54  pwd
